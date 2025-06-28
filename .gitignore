@@ -1,0 +1,35 @@
+# Bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+memory/*.wav
+memory/*.mp3
+memory/*.tmp
+memory/__pycache__/
+
+# Secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model and config backups (if any)
+*.ckpt
+*.safetensors
+*.pt
+
+# Git conflict backups
+*.orig
+*.swp
