@@ -1,0 +1,10 @@
+{
+  "model_mode": "auto", 
+  "light_model": "mistral", 
+  "heavy_model": "dolphin-mixtral",
+  "notify_on_model_switch": true,
+  "auto_update": true,
+  "allow_game_detection": true,
+  "default_voice": "female_en",
+  "enable_pc_health_monitor": true
+}
