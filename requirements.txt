@@ -1,0 +1,14 @@
+pyttsx3
+psutil
+whisper
+openai-whisper
+langchain
+pyqt5
+pystray
+duckduckgo-search
+requests
+pyaudio
+SpeechRecognition
+chromadb
+tinydb
+plyer
